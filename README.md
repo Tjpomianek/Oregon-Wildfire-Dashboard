@@ -45,8 +45,8 @@ oregon-wildfire-dashboard/
 ## How to Run
 
 ```bash
-git clone https://github.com/Tjpomianek/oregon-wildfire-dashboard.git
-cd oregon-wildfire-dashboard
+git clone https://github.com/Tjpomianek/Oregon-Wildfire-Dashboard.git
+cd Oregon-Wildfire-Dashboard
 pip install -r requirements.txt
 python fire_panel.py
 ```
