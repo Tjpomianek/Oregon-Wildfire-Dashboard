@@ -46,7 +46,7 @@ oregon-wildfire-dashboard/
 
 ```bash
 git clone https://github.com/Tjpomianek/Oregon-Wildfire-Dashboard.git
-cd Oregon-Wildfire-Dashboard
+cd oregon-wildfire-dashboard
 pip install -r requirements.txt
 python fire_panel.py
 ```
